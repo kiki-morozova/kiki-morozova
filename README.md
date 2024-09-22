@@ -14,5 +14,5 @@ hi, i'm Clare! i'm a computational biologist/bioengineer from new york city but 
 
 ### [call me, beep me, if you want to reach me!](https://open.spotify.com/album/5Rda027uD8ncoNMIXtngWL)
 - github issues!! @ me!! DO IT
-- email me on my protonmail (lune.de.clare w/ the proton.me ending) if you feel like it! email is hard and so is executive function so i may respond late, apologies in advance. also, the wierd email formatting is to avoid spam bots!
+- email me on my protonmail (lune.de.clare w/ the proton.me ending) if you feel like it! email is hard and so is executive function so i may respond late, apologies in advance.
 
