@@ -10,7 +10,7 @@ hi, i'm Clare! i'm a computational biologist/bioengineer from new york city but 
 ### the obligatory languages/softwares/OS section
 - bash, python, kotlin, brainf*ck, *terrible* javascript
 - fusion 360, autocad, solidworks (cfd, mostly), keyshot (regrettably), indesign + illustrator, onshape, rhino
-- pop-os! supremacy (i want a mac please... my computer takes 45 seconds to wake from sleep but only 10 to boot help)
+- pop-os! supremacy (i want a mac please... my computer takes 45 seconds to wake from sleep but only 10 to boot somehow)
 
 ### [call me, beep me, if you want to reach me!](https://open.spotify.com/album/5Rda027uD8ncoNMIXtngWL)
 - github issues!! @ me!! DO IT
