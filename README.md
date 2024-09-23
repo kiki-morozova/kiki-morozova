@@ -2,7 +2,7 @@
 hi, i'm Clare! i'm a computational biologist/bioengineer from new york city but i also dabble in uav design, osint, api & crawler security, and robotics (you can never leave [ftc](https://www.firstinspires.org/robotics/ftc)). <br>
 ⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽⋆˖
 
-### questionably productive (software) engineering philosophies
+### questionably productive (software) engineering takes
 - "why spend an hour doing something when you can spend ten hours automating it :3"
 - "why learn blender when fusion360 has an animation tab \*insert clown music here\*"
 - "brainf*ck can't be that hard, low-level languages are good to learn first"
