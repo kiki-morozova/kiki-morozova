@@ -1,5 +1,5 @@
 ### ✨ introductions, of the informal variety ✨
-hi, i'm Clare! i'm a computational biologist/bioengineer from new york city but i also dabble in uav design, osint, api & crawler security, and robotics (you can never leave [ftc](https://www.firstinspires.org/robotics/ftc)). <br>
+hi, i'm Clare! i'm a computational biologist/biochemical engineer from new york city but i also dabble in uav design, osint, api & crawler security, and robotics (you can never leave [ftc](https://www.firstinspires.org/robotics/ftc)). <br>
 ⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽⋆˖
 
 ### questionably productive (software) engineering takes
