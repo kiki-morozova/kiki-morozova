@@ -13,6 +13,6 @@ hi, i'm Clare! i'm a computational biologist/biochemical engineer from new york 
 - pop-os! supremacy (i want a mac please... my computer takes 45 seconds to wake from sleep but only 10 to boot somehow)
 
 ### [call me, beep me, if you want to reach me!](https://open.spotify.com/album/5Rda027uD8ncoNMIXtngWL)
-- github issues!! @ me!! DO IT
+- most of my code is for proprietary projects, but i <3 open source and would love to help out with an open source project
 - email me on my protonmail (lune.de.clare w/ the proton.me ending) if you feel like it! email is hard and so is executive function so i may respond late, apologies in advance.
 
