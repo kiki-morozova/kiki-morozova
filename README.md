@@ -1,5 +1,5 @@
 ### ✨ introductions, of the informal variety ✨
-hi, i'm Kiki (short for Kikimora, pronounced like the spider, Owl House character, Russian folk creature, or camoflauge, whichever you're most familiar with)! i'm a computational biologist from new york city but i also dabble in uav design, osint, api & crawler security, and robotics (you can never leave [ftc](https://www.firstinspires.org/robotics/ftc)). <br>
+hi, i'm Kiki (short for Kikimora, pronounced like the spider, Owl House character, Russian folk creature, or camoflauge, whichever you're most familiar with)! i'm a computational biologist and software engineer from new york city but i also dabble in uav design, osint, api & crawler security, and robotics (you can never leave [ftc](https://www.firstinspires.org/robotics/ftc)). <br>
 ⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽⋆˖
 
 ### questionably productive (software) engineering takes
