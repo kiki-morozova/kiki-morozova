@@ -9,8 +9,8 @@ hi, i'm Kiki (short for Kikimora, pronounced like the spider, Owl House characte
 - "oh don't worry, there's a nightmare of a C library from 1996 for that (yes this is targetted at CGAL)"
 
 ### the obligatory languages/softwares/OS section
-- python, kotlin, java, bash, brainf*ck, *deeply terrible* javascript
-- fusion 360, meshlab, autocad, solidworks (cfd, mostly), keyshot (regrettably), indesign + illustrator, onshape, rhino
+- python, kotlin, java, bash, web assembly (text format!!), x86_64 assembly, *deeply terrible* javascript
+- fusion 360, meshlab, autocad, solidworks (cfd, mostly), keyshot, indesign + illustrator, onshape, rhino
 - pop-os! supremacy (i want a mac please... my computer takes 45 seconds to wake from sleep but only 10 to boot somehow)
 
 ### [call me, beep me, if you want to reach me!](https://open.spotify.com/album/5Rda027uD8ncoNMIXtngWL)
